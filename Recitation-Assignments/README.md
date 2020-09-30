@@ -26,15 +26,12 @@
  * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Mehr 1 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
-   
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Mehr 9 at 16:00
+
+ * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
-   - Notebook: Will be posted here!
- <!--
- * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) and [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Mehr 9 at 16:00
-   - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
-   - Notebook: Will be posted here!
- -->
+   - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
+   - Video: Posted in the skype group (Will be available for one month!)
+   
  * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: Will be posted here!  
@@ -108,18 +105,18 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - At least one other dataset (up to your choice)  
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice)
    
-* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
+* Build and train a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
    
    - A High-Degree Perturbed Polynomial
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
@@ -136,7 +133,7 @@
 * Save and load one among the elements of tensors using the torch and the h5py file
 * Show the different true and false requires_grad values in Autograd by the backward method
 
-<-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
+<-> Deadline: Thursday, Mehr 10, 23:59 (Announced at Shahrivar 27)
 
 ## Assignment Set 4
 
@@ -145,7 +142,14 @@
 * Use the two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions
 * Train (in GPU) and evaluate the models
 
-<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
+<-> Deadline: Saturday, Mehr 19, 23:59 (Announced at Mehr 5)
+
+## Assignment Set 5
+
+* Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate them in one tensor
+* Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
+
+<-> Deadline: Tuesday, Mehr 22, 23:59 (Announced at Mehr 8)
 
 # Final Project
 
