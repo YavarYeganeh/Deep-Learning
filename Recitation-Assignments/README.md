@@ -16,11 +16,12 @@
 
 * A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
 * Response to emails may take a few days. Please be patient!
+* You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
 
 # Recitation
 
 * **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
-   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part one) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1qOAGNcdXuLOuJc9Hq9vQP6Cmlq-PJnEN?usp=sharing)
    
  * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Mehr 1 at 16:00
@@ -30,37 +31,47 @@
  * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
-   - Video: Posted in the skype group (Will be available for one month!)
+   - Video: Posted in the Skype group (for one month)
    
- * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 15 at 16:00
+ * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
    
- * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
+ * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Mehr 23 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/1kJsHpvaPYAS522Ay1DAnnejMY-dSNhxZ?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
  
- * **Session Six** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
-   - Notebook: Will be posted here!  
+ * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Mehr 29 at 18:00
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part one)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
+   - Video: Posted in the Skype group (for one month)
    
- * **Session Seven** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Mehr 29 at 16:00
-   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
-   - Notebook: Will be posted here!  
- 
- * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
+  * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+    - Introduction to Python Classes and Objects
+    - Building fully connected neural networks without using machine learning libraries in Python
+    - Video: Posted in the Skype group (for one month)
+    <!--- Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) --> 
+   
+ * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
    - Notebook: Will be posted here!  
  
- * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
+ * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
- 
- * **Session Ten** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 16:00
+
+ * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Aban 20 at 16:00
+   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
+   - Notebook: Will be posted here!   
+
+ * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
- * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 28 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
@@ -109,21 +120,21 @@
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-   - At least one other dataset (up to your choice)  
+   - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
    
 * Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - At least one other dataset (up to your choice)
+   - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
    
-* Build and train a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
+* Build and train a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, loss function). Object-oriented (class/objects) programming should also be employed. Then compare your models with exactly the same settings at Pytorch and Tensorflow (and Keras) for the following data sets:
    
-   - A High-Degree Perturbed Polynomial
+   - Samples from a high-degree perturbed polynomial 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
-<-> Deadline: Saturday, Mehr 12, 23:59 (Announced at Shahrivar 22)
+<-> Deadline: Tuesday, Aban 6, 23:59 (Announced at Shahrivar 22)
 
 ## Assignment Set 3
 
@@ -150,6 +161,15 @@
 * Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
 
 <-> Deadline: Tuesday, Mehr 22, 23:59 (Announced at Mehr 8)
+
+## Assignment Set 6
+
+* Apply regularization techniques, including *L<sub>2</sub>* & *L<sub>1</sub>* penalties and data augmentation, to the regression and classification models (the first two parts) that you have developed in [Assignment Set 2](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#assignment-set-2), then compare them. 
+* Write at least a paragraph regarding (the conclusion of) your experiments and regularization effects. 
+
+**Please Note**: Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
+<-> Deadline: Thursday, Aban 15, 23:59 (Announced at Aban 1)
 
 # Final Project
 
