@@ -17,6 +17,8 @@
 * A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
 * Response to emails may take a few days. Please be patient!
 * You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
+* Recitation classes and seminars will take place in the [Skype Group](https://join.skype.com/kJ6WepEDrsnt).
+* Assignments and the projects should be done utilizing [PyTorch](https://pytorch.org/), except there have been specific instructions for a task.
 
 # Recitation
 
@@ -48,54 +50,56 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
    - Video: Posted in the Skype group (for one month)
    
-  * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
-    - Introduction to Python Classes and Objects
-    - Building fully connected neural networks without using machine learning libraries in Python
-    - Video: Posted in the Skype group (for one month)
-    <!--- Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) --> 
+ * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+   - Introduction to Python Classes and Objects
+   - Building fully connected neural networks without using machine learning libraries in Python
+   - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
+   - Video: Posted in the Skype group (for one month)
    
- * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
+ * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 7 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
-   - Notebook: Will be posted here!  
- 
- * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
+   - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
+
+ * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Aban 20 at 18:00 
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
+   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1cass1LqzpmTs1dnasSzgHnvuSnHdODZQ?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
+  
+ * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 28 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
-
- * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Aban 20 at 16:00
-   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
-   - Notebook: Will be posted here!   
-
- * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
+   
+  * **Session Ten** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
+    - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
+    - Notebook: Will be posted here!  
+   
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 11 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 28 at 16:00
+ * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 12 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Twelve** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 4 at 16:00
+ * **Session Thirteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
- * **Session Thirteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 11 at 16:00
-   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
-   - Notebook: Will be posted here!  
-   
- * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00
+ * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 25 at 16:00
+* **Session Fifteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 2 at 16:00
+* **Session Sixteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Seventeen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 9 at 16:00
+* **Session Seventeen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 16 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
@@ -116,13 +120,13 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, ...) in either Pytorch or Tensorflow to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Pytorch or Tensorflow to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
@@ -169,14 +173,33 @@
 
 **Please Note**: Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
-<-> Deadline: Thursday, Aban 15, 23:59 (Announced at Aban 1)
+<-> Deadline: Wednesday, Aban 21, 23:59 (Announced at Aban 1)
+
+## Assignment Set 7
+
+* Set up a simple convolutional neural network model with convolutional, max-pulling, and linear layers (and suitable activation functions) using a different dataset from those that are used in your previous assignments (its size or classes can also be modified).
+
+<-> Deadline: Thursday, Aban 22, 23:59 (Announced at Aban 8)
+
+## Assignment Set 8
+
+* Apply different optimization algorithms as well as dropout (and/or other regularization methods such as bagging) on the following models:
+
+  - The regression and classification models developed in [Assignment Set 6](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/README.md#assignment-set-6) or [2](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/README.md#assignment-set-2)
+  - At least two different models for a classification or regression dataset (up to your choice, but different from previous ones)
+
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments and modifications.  
+
+**Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, <ins>Try to develop better classifiers and regressors</ins>. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
+<-> Deadline: Tuesday, Azar 4, 23:59 (Announced at Aban 20)
 
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
 
     - Contacting a mentor and deciding on a topic - *Deadline: Mehr 30*
-    - Submitting a brief proposal of the project - *Deadline: Aban 30*
+    - Submitting a brief proposal of the project - *Deadline: ~~Aban 30~~ Extended to Azar 7*
     - Proposal approval by the mentor - *Please manage it to be done in Aban!*
     - **The main phase of the project**
     - Submitting a poster or a brief report of the progress - *Deadline: Dey 1*

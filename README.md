@@ -271,7 +271,7 @@ Additional Resources:
   * Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy   
   * Blog: [TORCHVISION.DATASETS](https://pytorch.org/docs/stable/torchvision/datasets.html)   
 
-6. ### <a name="RFDL"></a>Regularization for Deep Learning  (5 Sessions)  
+6. ### <a name="RFDL"></a>Regularization for Deep Learning (5 Sessions)     
 
 ```
 Required Reading:
@@ -333,7 +333,7 @@ Additional Resources:
     - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
     - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
  
-8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+8. ### <a name="OFTDM"></a>Optimization for Training Deep Models (5 Sessions)  
 
 ```
 Required Reading:
@@ -351,9 +351,10 @@ Suggested Reading:
    * Lecture Note: [Matrix Norms and Condition Numbers](http://faculty.nps.edu/rgera/MA3042/2009/ch7.4.pdf) by Ralucca Gera  
    * Blog: [Initializing Neural Networks](https://www.deeplearning.ai/ai-notes/initialization/) by Katanforoosh & Kunin, [deeplearning.ai](https://www.deeplearning.ai), 2019   
    * Blog: [How to Initialize Deep Neural Networks? Xavier and Kaiming Initialization](https://pouannes.github.io/blog/initialization/) by Pierre Ouannes  
-   * Blog: [What Is Covariate Shift?](https://medium.com/@izadi/what-is-covariate-shift-d7a7af541e6) by Saeed Izadi 
+   * Blog: [What Is Covariate Shift?](https://medium.com/@izadi/what-is-covariate-shift-d7a7af541e6) by Saeed Izadi  
+   * Book: [Dataset Shift in Machine Learning](https://www.amazon.com/Dataset-Machine-Learning-Information-Processing/dp/0262170051) by by Joaquin Quinonero-Candela, Masashi Sugiyama, Anton Schwaighofer, and Neil D. Lawrence  
    * Blog: [Stay Hungry, Stay Foolish:](https://www.adityaagrawal.net/blog/) This interesting blog contains the computation of back propagation of different layers of deep learning prepared by Aditya Agrawal    
-   * Paper: [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio   
+   * Paper: [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, and Yoshua Bengio   
    
 ```
 Additional Reading:
@@ -375,24 +376,27 @@ Additional Reading:
        - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
        - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
 
-9. ### <a name="CNN"></a>Convolutional Networks  
+9. ### <a name="CNN"></a>Convolutional Networks  (3 Sessions)
 
 ```
 Required Reading:
 ```
 
-   * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
-   * Slide: [Convolutional Neural Networks (Lecture 6)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_6.pdf) by Ali Harakeh   
-   * Slide: [Convolutional Networks](http://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
+   * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.    
+   * Slides: [ Convolutional Networks](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
   
 ```
 Suggested Reading:
 ```
 
    * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
-   * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br> 
+   * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah    
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
-   * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
+   * Blog: [A Gentle Introduction to 1×1 Convolutions to Manage Model Complexity](https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/) by Jason Brownlee   
+   * Blog: [Global Average Pooling Layers for Object Localization](https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/) by Alexis Cook  
+   * Blog: [Review: Spatial Pyramid Pooling](https://medium.com/analytics-vidhya/review-spatial-pyramid-pooling-1406-4729-bfc142988dd2) by Sanchit Tanwar  
+   * Blog: [Maxpooling vs Minpooling vs Average Pooling](https://medium.com/@bdhuma/which-pooling-method-is-better-maxpooling-vs-minpooling-vs-average-pooling-95fb03f45a9) by Madhushree Basavarajaiah    
+   * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang   
    * Blog: [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia  
    * Blog: [Type of convolutions: Deformable and Transformable Convolution](https://towardsdatascience.com/type-of-convolutions-deformable-and-transformable-convolution-1f660571eb91) by Ali Raza  
    * Blog: [Review: DilatedNet — Dilated Convolution (Semantic Segmentation)](https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5) by Sik-Ho Tsang  
@@ -404,6 +408,9 @@ Additional Reading:
    
    * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
    * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
+   * **Extra Slides:**  
+       - Slide: [Convolutional Neural Networks (Lecture 6)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_6.pdf) by Ali Harakeh   
+       - Slide: [Convolutional Networks](http://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow    
    
 ```
 Fourier Transformation:
@@ -497,12 +504,6 @@ Required Reading:
 
    * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.  
    * Slides: [Practical Methodology](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
-      - Part 0: [Practical Design Process](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.0%20PractMethOverview.pdf)
-      - Part 1: [Performance Metrics](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.1%20PerformMetrics.pdf)
-      - Part 2: [Default Baseline Models](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.2%20BaselineModels.pdf)
-      - Part 3: [Whether to Gather More Data](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.3%20MoreData.pdf)
-      - Part 4: [Selecting Hyperparameters](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.4%20Hyperparams.pdf)
-      - Part 5: [Debugging Strategies](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.5%20Debugging.pdf)
 
 ```
 Suggested Reading:
