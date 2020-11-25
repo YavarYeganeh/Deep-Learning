@@ -1,20 +1,21 @@
 # Teaching Assistants
 
-* [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) (Email: hoseyni.sb@gmail.com)  
 
-* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
+* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) | [Email](mailto:y.taheriyeganeh@mail.sbu.ac.ir)
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
-* [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)  
+* [Behnaz Hoseyni](https://github.com/behnazhoseyni) | [Email](mailto:hoseyni.sb@gmail.com)
+<!--
+* [Erfaan Rostami](https://github.com/Erfaan-Rostami) | [Email](mailto:r.a.erfan@gmail.com)
+-->
+* [Mostafa Khodayari](https://github.com/MSTF4) | [Email](mailto:mo.khodayari@mail.sbu.ac.ir)
 
-* [Mostafa Khodayari](https://github.com/MSTF4) (Email: mo.khodayari@mail.sbu.ac.ir)  
-
-* [Esmail Mafakheri](https://github.com/E008001) (Email: e.mafakheri@mail.sbu.ac.ir)   
+* [Esmail Mafakheri](https://github.com/E008001) | [Email](mailto:e.mafakheri@mail.sbu.ac.ir)   
 
 
 **Please Note**: 
 
-* A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
+* A carbon copy (Cc) of your email communications with TAs must be sent to the this [email address](mailto:hhhaji@yahoo.com).
 * Response to emails may take a few days. Please be patient!
 * You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
 * Recitation classes and seminars will take place in the [Skype Group](https://join.skype.com/kJ6WepEDrsnt).
@@ -30,12 +31,12 @@
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
 
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
+ * **Session Three** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
    - Video: Posted in the Skype group (for one month)
    
- * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
+ * **Session Four** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
    - Video: Posted in the Skype group (for one month)
@@ -67,39 +68,41 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1cass1LqzpmTs1dnasSzgHnvuSnHdODZQ?usp=sharing)
    - Video: Posted in the Skype group (for one month)
   
- * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 28 at 16:00
+ * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 28 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/1I6eNUR6whEct9aaI62zmPeda8A2ttEsb?usp=sharing%22)
+   - Video: Posted in the Skype group (for one month)  
    
-  * **Session Ten** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
+  * **Session Ten** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Azar 4 at 16:00
     - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
-    - Notebook: Will be posted here!  
+    - Notebook: [Colab](https://colab.research.google.com/drive/1Fn3iLMOTMhPz8R3g17wAS-iDVhTk7kGC?usp=sharing)
+    - Video: Posted in the Skype group (for one month) 
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 11 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Azar, Aban 11 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
-   
- * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 12 at 16:00
+
+ * **Session Twelve** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00
+   - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
+   - Notebook: Will be posted here!  
+    
+ * **Session Thirteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Azar 25 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Thirteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
-   - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
-   - Notebook: Will be posted here!  
- 
- * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
+ * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Dey 2 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
+* **Session Fifteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 9 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
+* **Session Sixteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 16 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Seventeen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 16 at 16:00
+* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 23 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
@@ -192,7 +195,27 @@
 
 **Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, <ins>Try to develop better classifiers and regressors</ins>. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
-<-> Deadline: Tuesday, Azar 4, 23:59 (Announced at Aban 20)
+<-> Deadline: Friday, Azar 7, 23:59 (Announced at Aban 20)
+
+## Assignment Set 9
+
+* Develop (at least two) convolutional models for an image dataset (up to your choice, but different from previous ones).
+* Exercise one of chapter eight, [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+
+<-> Deadline: Friday, Azar 14, 23:59 (Announced at Aban 30)
+
+## Assignment Set 10
+
+* Run a hyperparameter optimization study (on a model) with the following settings, then find the best hyperparameters (which lead to the best accuracy).
+
+   - 50 Trials | 30, 50, or 70 Epochs | 16, 32, or 64 Batch sizes | At least another hyperparameter, up to your choice
+   - Pruning the model if accuracy does not change in 5 epochs
+
+**Please Note**: You may find the following blogs helpful: [Pruning — Early Stopping of Poor Trials
+](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) and
+[Pruning Unpromising Trials](https://optuna.readthedocs.io/en/latest/tutorial/007_pruning.html#).
+
+<-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Azar 4)
 
 # Final Project
 
@@ -205,7 +228,7 @@
     - Submitting a poster or a brief report of the progress - *Deadline: Dey 1*
     - Poster/Progress presentation - *Dey 3 at 16:00*
     - Submitting the final report as well as codes and data - *Deadline: Bahman 10*
-    - Seminar presentation -*Bahman 12 (TBC)*
+    - Seminar presentation -*Bahman 12*
   
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity, innovations as well as a novelty are (expected and) highly appreciated and will be rewarded accordingly. Projects will be evaluated by the professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
 
