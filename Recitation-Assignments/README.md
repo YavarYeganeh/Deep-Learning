@@ -51,7 +51,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
    - Video: Posted in the Skype group (for one month)
    
- * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+ * **Video Tutorial One** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
    - Introduction to Python Classes and Objects
    - Building fully connected neural networks without using machine learning libraries in Python
    - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
@@ -78,13 +78,20 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/1Fn3iLMOTMhPz8R3g17wAS-iDVhTk7kGC?usp=sharing)
     - Video: Posted in the Skype group (for one month) 
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Azar 18 at 16:00
-   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
-   - Notebook: Will be posted here!  
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Azar 18 at 17:00
+   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part one)
+   - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
+   - Video: Posted in the Skype group (for one month)
 
- * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 19 at 16:00
+ * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Azar 19 at 17:00
    - [Toolkit Lab 6: Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1xm90WDOSxWzAu5F6m9Cf1IYg-xxI2S54?usp=sharing%22)
+   - Video: Posted in the Skype group (for one month)
+   
+  * **Video Tutorial Two** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Thursday, Azar 20
+    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part two)
+    - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
+    - Video: Posted in the Skype group (for one month)
  
  * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
@@ -202,7 +209,7 @@
 * Develop (at least two) convolutional models for an image dataset (up to your choice, but different from previous ones).
 * Exercise one of chapter eight, [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
-<-> Deadline: Friday, Azar 14, 23:59 (Announced at Aban 30)
+<-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Aban 30)
 
 ## Assignment Set 10
 
@@ -215,7 +222,22 @@
 ](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) and
 [Pruning Unpromising Trials](https://optuna.readthedocs.io/en/latest/tutorial/007_pruning.html#).
 
-<-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Azar 4)
+<-> Deadline: Friday, Azar 21, 23:59 (Announced at Azar 4)
+
+## Assignment Set 11
+
+* Develop at least two recurrent models for (each of) two sequential datasets (up to your choice, but different than previous ones and at least one on natural language).
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments.
+
+<-> Deadline: Thursday, Dey 4, 23:59 (Announced at Azar 20)
+ 
+## Assignment Set 12
+
+* Train at least two classification models for [Linnaeus 5](http://chaladze.com/l5/) dataset utilizing pre-trained [Torchvision.models](https://pytorch.org/docs/stable/torchvision/models.html).
+* Develop at least two deep learning models on a task (up to your choice) utilizing transfer learning.
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments.
+
+<-> Deadline: Thursday, Dey 11, 23:59 (Announced at Azar 20)
 
 # Final Project
 

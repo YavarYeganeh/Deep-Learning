@@ -26,6 +26,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Libraries & Packages](#Libraries) 
     - [Notations](#Notations) 
     - [Online Softwares](#Online-Softwares) 
+    - [An Introduction to Chemistry](#Chemistry) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -68,7 +69,7 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 - Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton 
 
 ## <a name="GRL"></a>Graph Represetation Learning         
-- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+- Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
 - Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
 - Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
 - Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
@@ -202,6 +203,15 @@ Molecular structures have graph structures. By using machine learning and in par
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
 - Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
 - Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
+
+### <a name="Chemistry"></a>An Introduction to Chemistry
+- Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
+    - [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)  
+    - [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html) 
+    - [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics)
+    - [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes)
+    - [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass)  
+    - [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 

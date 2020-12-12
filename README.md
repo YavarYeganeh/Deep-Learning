@@ -58,7 +58,7 @@
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
 - [Grading](#Grading)
-  - [Two Exams](#Two-Exams)
+  - [Three Exams](#Three-Exams)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
@@ -387,6 +387,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+   * Blog: [Color Vision](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
    * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah    
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
@@ -399,7 +400,8 @@ Suggested Reading:
    * Blog: [Type of convolutions: Deformable and Transformable Convolution](https://towardsdatascience.com/type-of-convolutions-deformable-and-transformable-convolution-1f660571eb91) by Ali Raza  
    * Blog: [Review: DilatedNet — Dilated Convolution (Semantic Segmentation)](https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5) by Sik-Ho Tsang  
    * Blog: [Region of Interest Pooling Explained](https://deepsense.ai/region-of-interest-pooling-explained/) by Tomasz Grel     
-   * Blog: [Understanding the Receptive Field of Deep Convolutional Networks](https://theaisummer.com/receptive-field/) by Nikolas Adaloglou     
+   * Blog: [Understanding the Receptive Field of Deep Convolutional Networks](https://theaisummer.com/receptive-field/) by Nikolas Adaloglou   
+  
 
 ```
 Additional Reading:  
@@ -469,6 +471,7 @@ Additional Reading:
        * Slide: [Sequence Modeling: Recurrent and Recursive Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L12-rnn.pdf) by U Kang    
        * Slide: [Training Recurrent Nets](http://web.eecs.utk.edu/~hqi/deeplearning/lecture14-rnn-training.pdf) by Arvind Ramanathan  
        * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
+       * Slide: [Graphical Models vs. Deep Networks](https://perso.liris.cnrs.fr/christian.wolf/papers/pres-workshop-df-170104.pdf) by Christian Wolf   
    
 12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks (1 Session)
 
@@ -638,6 +641,7 @@ Suggested Reading:
 ```
 
 - Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
+- Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
 - Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
 
 ```
@@ -693,9 +697,10 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Projects and Midterm – 50%
 * Endterm – 50%
 
-### <a name="Two-Exams"></a>Two Exams:
+### <a name="Three-Exams"></a>ُThree Exams:
 
-* Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
+* First Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
+* Second Midterm Examination: Saturday 1399/10/06, 10:30-12:00 
 * Final Examination: Wednesday 1399/10/24, 14:00-16:00 
 
 ## <a name="Prerequisites"></a>Prerequisites:
