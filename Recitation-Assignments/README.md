@@ -93,25 +93,23 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
     - Video: Posted in the Skype group (for one month)
  
- * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
+ * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Azar 25 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
-   - Notebook: Will be posted here!  
+   - Video: Posted in the Skype group (for one month)  
 
-* **Session Fourteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 9 at 16:00
+* **Session Fourteen** by [Esmail Mafakheri](https://github.com/E008001) was on Tuesday, Dey 9 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
-   - Notebook: Will be posted here!  
+   - Video: Posted in the Skype group (for one month)  
    
-* **Session Fifteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Dey 10 at 16:00
+* **Video Tutorial Three** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was posted on Wednesday, Dey 10
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
-   - Notebook: Will be posted here!  
+   - Video: [Link](https://drive.google.com/drive/folders/113GY9ux5wMSVfPHYpos_qP92DOkNePnZ?usp=sharing)
    
-* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 16 at 16:00
-   - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
-   - Notebook: Will be posted here!  
+* **Session Fifteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 16 at 16:00
+   - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN)  
       
-* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 23 at 16:00
-   - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
-   - Notebook: Will be posted here!  
+* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 23 at 16:00
+   - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)  
    
 
 # Assignments 
@@ -239,6 +237,26 @@
 
 <-> Deadline: Thursday, Dey 11, 23:59 (Announced at Azar 20)
 
+## Assignment Set 13
+
+* Build and Implement a denoising autoencoder.
+* Use autoencoders for feature extraction/dimensionality reduction and then in a classification task (up to your choice, but different from previous ones) in addition to comparison with only-classifier settings.
+* Develop a variational autoencoder for generating images (e.g., Fashion-MNIST or CIFAR-10 datasets). 
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments. 
+
+**Please Note**: For the third part, you may find [these implementations](https://github.com/AntixK/PyTorch-VAE) helpful. Additionally, the tasks must be delivered as your authentic work.
+
+<-> Deadline: Friday, Bahman 10, 23:59 (Announced at Dey 23)
+
+## Assignment Set 14 (Optional)
+
+* Develop two deep learning tasks utilizing topics discussed in the course or other advanced topics within the field (up to your choice, but different from previous ones).
+* Write at least a paragraph for each of the tasks regarding (the conclusion of, e.g., comparison of) your experiments.
+
+**Please Note**: It will be rewarded up to 20 percent of the assignments' score. Additionally, the tasks must be delivered as your authentic work.
+
+<-> Deadline: Tuesday, Bahman 14, 23:59 (Announced at Dey 23)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications, and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
@@ -256,7 +274,7 @@
 
 **Poster or Progress Report**: We strongly recommend students to prepare a poster (concerning the progress) of their projects. However, a brief report can also be submitted. Furthermore, students should also present them in a meeting on Wednesday, Dey 3 at 16:00 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). This meeting is expected to provide an opportunity for students to be familiar with each other's progress on projects as well as sharing ideas. Consequently, students are asked to manage the meeting themselves and the course staff may not attend (However, the meeting will be recorded!). Those who don't prepare a poster should prepare several slides as well!    
 
-    Poster/Progress Presentation will be on Thursday, Dey 11 at 16:00! 
+    Poster/Progress Presentation was on Thursday, Dey 11 at 16:00! 
 
 **The Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. The proposal should be at least three paragraphs; The poster should be in a conventional academic form or  a progress report of at least two pages can be submitted; The final report should also be at least four pages. They should be in the academic/publication format. In addition, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You can use available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
