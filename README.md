@@ -50,6 +50,7 @@
   16. Lecture 16: [Autoencoders](#Autoencoders)
   17. Lecture 17: [Generative Adversarial Networks](#GAN)  
   18. Lecture 18: [Graph Neural Networks](#GNN)
+  19. Lecture 19: [Atention Mechanisms and Transformers](#TRA)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
   - [Recitation and Assignments](#MTA)  
@@ -658,6 +659,40 @@ Additional Reading:
 * GitHub: [Graph Neural Networks](https://github.com/hhaji/Deep-Learning/tree/master/Graph-Neural-Networks)   
 * **Extra Slides:**  
     - Slide: [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu and Tengfei Ma. This is a perfect slide about graph neural networks. 
+
+
+19. ### <a name="TRA"></a> Attention Mechanisms and Transformers(1 Session)
+
+```
+Required Reading:
+```
+
+* Slide: [Attention Mechanisms](https://andre-martins.github.io/docs/dsl2020/attention-mechanisms.pdf) by Marcos V. Treviso   
+* Book: [Dive into Deep Learning (Chapter 10)](http://d2l.ai/chapter_attention-mechanisms/) by Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
+    - [10.1. Attention Cues](http://d2l.ai/chapter_attention-mechanisms/attention-cues.html#attention-cues-in-biology) 
+    - [10.2. Attention Pooling: Nadaraya-Watson Kernel Regression](http://d2l.ai/chapter_attention-mechanisms/nadaraya-watson.html)  
+    - [10.3. Attention Scoring Functions](http://d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html) 
+    - [10.4. Bahdanau Attention](http://d2l.ai/chapter_attention-mechanisms/bahdanau-attention.html) 
+    - [10.5. Multi-Head Attention](http://d2l.ai/chapter_attention-mechanisms/multihead-attention.html) 
+    - [10.6. Self-Attention and Positional Encoding](http://d2l.ai/chapter_attention-mechanisms/self-attention-and-positional-encoding.html) 
+    - [10.7. Transformer](http://d2l.ai/chapter_attention-mechanisms/transformer.html)  
+
+```
+Suggested Reading:
+```
+
+* Blog: [Transformers From Scratch](http://peterbloem.nl/blog/transformers) by Peter Bloem   
+    - [Video](https://www.youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
+* Blog: [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa) by Chaitanya K. Joshi    
+* Blog: [How Transformers work in deep learning and NLP: an Intuitive Introduction](https://theaisummer.com/transformer/) by Nikolas Adaloglou   
+* Blog: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar     
+
+
+```
+Additional Reading:
+```  
+
+* Blog: [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) by Raimi Karim  
 
     
 ### <a name="ANAS"></a>Additional Resources:    
